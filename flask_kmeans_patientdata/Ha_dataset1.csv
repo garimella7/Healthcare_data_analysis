@@ -1,0 +1,9 @@
+ID;Age;Gender;Medical Condition;Test Result;Medication;Insurance Provider;Amount Billing;Admission Type;Admission Date;Discharge Date;Length of Stay
+1;62;Male;Asthma;Inconclusive;Lipitor;HCare;3960;Emergency;05/04/21;05/12/21;14
+2;65;Female;Asthma;Normal;Ibuprofen;Healthier;3484.5;Urgent;05/04/21;05/08/21;14
+3;82;Male;Diabetes;Inconclusive;Lipitor;HCare;6360;Elective;05/01/22;05/02/22;21
+4;85;Female;Diabetes;Normal;Aspirin;HCare;7740;Emergency;02/01/22;02/18/2022;21
+5;85;Male;Arthritis;Normal;Aspirin;BlueHealth;5775;Urgent;07/15/2023;08/13/2023;21
+6;27;Male;Asthma;Normal;Penicillin;GHealth;1596.5;Elective;03/03/23;03/22/2023;0
+7;39;Male;Hypertension;Inconclusive;Ibuprofen;LiveWell;2257.5;Elective;08/05/22;09/03/22;7
+8;54;Female;Arthritis;Normal;Ibuprofen;BlueHealth;5390;Emergency;04/12/22;04/20/2022;14
